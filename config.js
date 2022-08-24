@@ -7,27 +7,27 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['2349051064375']
-global.OwnerNumber = ['2349051064375']
-global.ownertag = ['2349051064375']
-global.BotName = "Ethan-v2"
-global.packname = "Ethan-v2"
-global.author = "☞ JayJay-Ops"
-global.OwnerName = "JayJay-Ops"
-global.BotSourceCode = "https://github.com/jayjay-ops/Ethan-v2"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['2349131783574','916380260672']
+global.OwnerNumber = ['2349131783574']
+global.ownertag = ['2349131783574']
+global.BotName = "Obbizzy"
+global.packname = "Obbizzy"
+global.author = "Obbizzy"
+global.OwnerName = "Never Die"
+global.BotSourceCode = "https://github.com/TURBOHYPER/Toxic-Alexa_V3"
+global.SupportGroupLink = "https://chat.whatsapp.com/"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['!'] 
+global.prefa = ['','!','.','🐦','🐤','😽'] 
 
 
 global.location = "Edo State, Nigeria"
 global.reactmoji = "🎀"
 global.themeemoji = "💌"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/jayjay-ops"
+global.websitex = "https://youtube.com/c/TurboMods"
 global.lolhuman = "is this play😂!"
 
 
